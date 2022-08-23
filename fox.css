@@ -1,0 +1,32 @@
+.main{
+    float:right;
+    width: 400px;
+    background-color: hsl(66, 71%, 43%);
+    border: 3px solid brown;
+    padding: 5px;
+    box-sizing: border-box;
+}
+h1{
+    height: 50px;
+}
+.picture{
+    border: 6px solid orange;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.paragraphs {
+    background-color: yellow;
+    border: 5px dashed orange;
+    width: 350px;
+    height: 200px;
+    overflow: auto;
+    margin-left: 3px;
+    margin-bottom: 3px;
+    box-sizing: border-box;
+}
+
+#first_sentence{
+    font-weight: bold;
+    text-decoration: underline;
+}
